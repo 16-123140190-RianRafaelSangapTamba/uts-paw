@@ -42,7 +42,7 @@ test('form menolak judul kosong', async () => {
 // 3. Test buatan 1 (Cek halaman beranda)
 test('menampilkan judul Rak Buku Pribadi di beranda', async () => {
   buka('/')
-  expect(await screen.findByText('Rak Buku Pribadi')).toBeInTheDocument()
+  expect(await screen.findByRole('heading', { level: 1, name: 'Rak Buku Pribadi' })).toBeInTheDocument()
 })
 
 // 4. Test buatan 2 (Cek halaman detail menampilkan Penulis)
