@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Bumi Manusia",
+    "kategori": "Fiksi",
+    "penulis": "Pramoedya Ananta Toer",
+    "tahunTerbit": "1980",
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "2",
+    "judul": "Laskar Pelangi",
+    "kategori": "Fiksi",
+    "penulis": "Andrea Hirata",
+    "tahunTerbit": "2005",
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "3",
+    "judul": "Cantik Itu Luka",
+    "kategori": "Fiksi",
+    "penulis": "Eka Kurniawan",
+    "tahunTerbit": "2002",
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "4",
+    "judul": "Filosofi Teras",
+    "kategori": "Non-Fiksi",
+    "penulis": "Henry Manampiring",
+    "tahunTerbit": "2018",
+    "status": "Sedang Dibaca"
+  },
+  {
+    "id": "5",
+    "judul": "Atomic Habits",
+    "kategori": "Pengembangan Diri",
+    "penulis": "James Clear",
+    "tahunTerbit": "2018",
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "6",
+    "judul": "Sapiens Sejarah Ringkas",
+    "kategori": "Sejarah",
+    "penulis": "Yuval Noah Harari",
+    "tahunTerbit": "2011",
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "7",
+    "judul": "Laut Bercerita",
+    "kategori": "Fiksi Sejarah",
+    "penulis": "Leila S. Chudori",
+    "tahunTerbit": "2017",
+    "status": "Sedang Dibaca"
+  },
+  {
+    "id": "8",
+    "judul": "Gadis Kretek",
+    "kategori": "Fiksi",
+    "penulis": "Ratih Kumala",
+    "tahunTerbit": "2012",
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "9",
+    "judul": "Hujan Bulan Juni",
+    "kategori": "Puisi",
+    "penulis": "Sapardi Djoko Damono",
+    "tahunTerbit": "1994",
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "10",
+    "judul": "Seni Bersikap Bodo Amat",
+    "kategori": "Pengembangan Diri",
+    "penulis": "Mark Manson",
+    "tahunTerbit": "2016",
+    "status": "Belum Dibaca"
   }
 ]
