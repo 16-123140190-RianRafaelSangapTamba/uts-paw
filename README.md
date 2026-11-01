@@ -68,7 +68,8 @@ Kelas: RB
 Tema: Rak Buku Pribadi
 Deployment: https://16-123140190-rianrafaelsangaptamba.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac6cce5b-9a0e-4bae-844c-244b45184191" />
+
 
 ## Fitur
 
