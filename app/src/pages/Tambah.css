@@ -41,3 +41,23 @@
     align-self: stretch;
   }
 }
+#judul {
+  background-color: #fafafa;
+}
+#penulis {
+  background-color: #fafafa;
+}
+#tahunTerbit {
+  background-color: #fafafa;
+}
+.formulir button:hover {
+  opacity: 0.9;
+}
+.formulir input:focus, 
+.formulir select:focus {
+  border-color: #000;
+  outline: none;
+}
+.formulir button:active {
+  transform: scale(0.98);
+}
