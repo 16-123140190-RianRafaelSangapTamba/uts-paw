@@ -60,30 +60,30 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 ## README milikmu
 
-Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
+# Aplikasi Rak Buku Pribadi
 
-```markdown
-# Nama Aplikasi
-
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Rian Rafael Sangap Tamba
+NIM: 123140190
+Kelas: RB
+Tema: Rak Buku Pribadi
+Deployment: https://16-123140190-rianrafaelsangaptamba.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
 ## Fitur
 
-- ...
+- Menampilkan ringkasan total buku dan jumlah kategori di halaman Beranda.
+- Menampilkan daftar koleksi buku dalam bentuk kartu.
+- Pencarian buku berdasarkan judul dan penyaringan berdasarkan kategori (Fiksi, Non-Fiksi, dll).
+- Halaman detail buku yang memuat informasi lengkap (Penulis, Tahun Terbit, Status) beserta tombol hapus.
+- Form tambah buku dengan validasi judul (tidak boleh kosong/terlalu pendek).
+- Halaman statistik yang menampilkan total buku per kategori menggunakan format tabel.
+- Halaman tentang yang memuat informasi pengembang.
+- Halaman Error 404 khusus untuk rute yang tidak terdaftar.
 
 ## Menjalankan secara lokal
 
+```bash
 cd app
 npm install
 npm run dev
-
-## Konsep React yang dipakai
-
-- ...
-```
